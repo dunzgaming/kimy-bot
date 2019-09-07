@@ -1,0 +1,19 @@
+{
+  "name": "DevFian",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.0",
+    "request": "2.81.0",
+    "express": "^4.16.3",
+    "https": "^1.0.0",
+    "foreach-timeout": "2.0.2",
+    "map": "^1.0.1",
+    "ffmpeg": "^0.0.4",
+    "ytdl-core": "^0.29.6",
+    "opusscript": "^0.0.7"
+  }
+}
